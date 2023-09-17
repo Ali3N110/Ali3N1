@@ -171,4 +171,3 @@ celestia-appd keys add $CELESTIA_WALLET
 
 -----------------------------------
 CELESTIA_ADDR=$(celestia-appd keys show $CELESTIA_WALLET -a) 
-echo $CELESTIA_ADDR 
