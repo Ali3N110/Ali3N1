@@ -10,7 +10,7 @@ git clone https://github.com/celestiaorg/celestia-app.git
 cd celestia-app
 git checkout v0.6.0
 celestia-appd version
------------------------------------
+--------------------------------
 git clone https://github.com/celestiaorg/networks
 -------------------------------
 rm -rf networks
